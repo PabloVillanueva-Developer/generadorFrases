@@ -1,0 +1,314 @@
+{
+"versiculos": [
+{"texto": "Todo lo puedo en Cristo que me fortalece.","versiculo":"Filipenses 4:13","fecha":"25/7/2023"
+  },
+{"texto": "Por lo demás, hermanos míos, fortaleceos en el señor y en el poder de sus fuerzas.","versiculo":"Efesios 6:10","fecha":"26/7/2023"
+  },
+{"texto": "Nosotros le amamos a él, porque él nos amó primero.","versiculo":"1 Juan 4:19","fecha":"27/7/2023"
+  },
+  {"texto": "Es, pues, la fe la certeza de lo que se espera, la convicción de lo que no se ve.","versiculo":"Hebreos 11:1","fecha":"28/7/2023"
+  },
+{"texto": "Enseñame a hacer tu voluntad, porque tu eres mi Dios, Que tu buen Espíritu me guíe por un terreno sin obstáculos","versiculo":"Salmos 143:10","fecha":"29/7/2023"
+  },
+{"texto": " No se inquieten por nada; más bien, en toda ocasión, con oración y ruego, presenten sus peticiones a Dios y denle gracias.","versiculo":"Filipenses 4:6","fecha":"30/7/2023"
+  },
+{"texto": "Justificados, pues, por la fe, tenemos paz para con Dios por medio de nuestro Señor Jesucristo;","versiculo":"Romanos 5:1","fecha":"31/7/2023"
+  },
+{"texto": "Lo que pidan en mi nombre, yo lo haré;","versiculo":"Juan 14:14","fecha":"1/8/2023"
+  },
+{"texto": "Mis queridos hermanos, tengan presente esto: Todos deben estar listos para escuchar, y ser lentos para hablar y para enojarse;","versiculo":"Santiago 1:19","fecha":"2/8/2023"
+  },
+ {"texto": "No me escogieron ustedes a mí, sino que yo los escogí a ustedes y los comisioné para que vayan y den fruto, un fruto que perdure. Así el Padre les dará todo lo que le pidan en mi nombre.","versiculo":"Juan 15:16","fecha":"3/8/2023"
+  },
+ {"texto": "No se inquieten por nada; más bien, en toda ocasión, con oración y ruego, presenten sus peticiones a Dios y denle gracias.","versiculo":"Filipenses 4:6","fecha":"4/8/2023"
+  },
+ {"texto": " Pero la sabiduría que es de lo alto es primeramente pura, después pacífica, amable, benigna, llena de misericordia y de buenos frutos, sin incertidumbre ni hipocresía.","versiculo":"Santiago 3.17","fecha":"5/8/2023"
+  },
+ {"texto": " El Señor dice: Yo te instruiré,yo te mostraré el camino que debes seguir; yo te daré consejos y velaré por ti.","versiculo":"Salmo 32:8","fecha":"6/8/2023"
+  },
+ {"texto": "Una sola cosa le pido al Señor,y es lo único que persigo: habitar en la casa del Señor todos los días de mi vida, para contemplar la hermosura del Señor y recrearme en su templo.","versiculo":"Salmo 27:4","fecha":"7/8/2023"
+  },
+ {"texto": "El Señor está cerca de quienes lo invocan, de quienes lo invocan en verdad.","versiculo":"Salmo 145:18","fecha":"8/8/2023"
+  },
+ {"texto": "Orad sin cesar.","versiculo":"1 Tesalonicenses 5:17","fecha":"9/8/2023"
+  },
+ {"texto": "Estas cosas os he hablado para que en mí tengáis paz. En el mundo tendréis aflicción; pero confiad, yo he vencido al mundo.","versiculo":"Juan 16:33","fecha":"10/8/2023"
+  },
+ {"texto": "Porque de cierto os digo que cualquiera que dijere a este monte: Quítate y échate en el mar, y no dudare en su corazón, sino creyere que será hecho lo que dice, lo que diga le será hecho.","versiculo":"Marcos 11:23","fecha":"11/8/2023"
+  },
+ {"texto": "Por tanto, os digo que todo lo que pidiereis orando, creed que lo recibiréis, y os vendrá.","versiculo":"Marcos 11:24","fecha":"12/8/2023"
+  },
+ {"texto": "Y cuando estéis orando, perdonad, si tenéis algo contra alguno, para que también vuestro Padre que está en los cielos os perdone a vosotros vuestras ofensas.","versiculo":"Marcos 11:25","fecha":"13/8/2023"
+  },
+ {"texto": "Fíate de Jehová de todo tu corazón, Y no te apoyes en tu propia prudencia.","versiculo":"Proverbios 3:5","fecha":"14/8/2023"
+  },
+{"texto": "La bendición de Jehová es la que enriquece, y no añade tristeza con ella.","versiculo":"Proverbios 10:22","fecha":"17/8/2023"
+  },
+{"texto": "Me mostrarás la senda de la vida; En tu presencia hay plenitud de gozo; Delicias a tu diestra para siempre.","versiculo":"Salmos 16:11","fecha":"16/8/2023"
+  },
+{"texto": "Porque no envió Dios a su Hijo al mundo para condenar al mundo, sino para que el mundo sea salvo por él.","versiculo":"Juan 3:17","fecha":"17/8/2023"
+  },
+{"texto": "Jehová, roca mía y castillo mío, y mi libertador; Dios mío, fortaleza mía, en él confiaré; Mi escudo, y la fuerza de mi salvación, mi alto refugio.","versiculo":"Salmos 18:2","fecha":"18/8/2023"
+  },
+{"texto": "Y él dijo: Ven. Y descendiendo Pedro de la barca, andaba sobre las aguas para ir a Jesús.","versiculo":"Mateo 14:29","fecha":"19/8/2023"
+  },
+{"texto": "No pierdas de vista mis palabras; guárdalas muy dentro de tu corazón. Ellas dan vida a quienes las hallan; son la salud del cuerpo.","versiculo":"Proverbios 4:21-22","fecha":"20/8/2023"
+  },
+{"texto": " Y Jehová respondió a Samuel: No mires a su parecer, ni a lo grande de su estatura, porque yo lo desecho; porque Jehová no mira lo que mira el hombre; pues el hombre mira lo que está delante de sus ojos, pero Jehová mira el corazón.","versiculo":"1 Samuel 16:7","fecha":"21/8/2023"
+  },
+{"texto": "Respondiendo Jesús, les dijo: —Tened fe en Dios.","versiculo":"Marcos 11:22","fecha":"22/8/2023"
+  },
+{"texto": "De cierto os digo que cualquiera que diga a este monte: “Quítate y arrójate en el mar”, y no duda en su corazón, sino que cree que será hecho lo que dice, lo que diga le será hecho.","versiculo":"Marcos 11:23","fecha":"23/8/2023"
+  },
+{"texto": "Por tanto, os digo que todo lo que pidáis orando, creed que lo recibiréis, y os vendrá.","versiculo":"Marcos 11:24","fecha":"24/8/2023"
+  },
+{"texto": "Tú guardarás en completa paz a aquel cuyo pensamiento en ti persevera; porque en ti ha confiado.","versiculo":"Isaías 26:3","fecha":"25/8/2023"
+  },
+{"texto": "Él solamente es mi roca y mi salvación. Es mi refugio, no resbalaré.","versiculo":"Salmos 62:6","fecha":"26/8/2023"
+  },
+{"texto": "En Dios está mi salvación y mi gloria; En Dios está mi roca fuerte, y mi refugio.","versiculo":"Salmos 62:7","fecha":"27/8/2023"
+  },
+{"texto": "El hombre bueno, del buen tesoro de su corazón saca lo bueno; y el hombre malo, del mal tesoro de su corazón saca lo malo; porque de la abundancia del corazón habla la boca.","versiculo":"Lucas 6:45","fecha":"28/8/2023"
+  },
+{"texto": "Todo tiene su tiempo, y todo lo que se quiere debajo del cielo tiene su hora.","versiculo":"Eclesiastes  3:1","fecha":"29/8/2023"
+  },
+{"texto": "Porque donde esté vuestro tesoro, allí estará también vuestro corazón.","versiculo":"Mateo 6:21","fecha":"30/8/2023"
+  },
+{"texto": "Y sabemos que a los que aman a Dios, todas las cosas les ayudan a bien, esto es, a los que conforme a su propósito son llamados.","versiculo":"Romanos 8:28","fecha":"31/8/2023"
+  },
+{"texto": "No seas vencido de lo malo, sino vence con el bien el mal.","versiculo":"Romanos 12:21","fecha":"1/9/2023"
+  },
+{"texto": "si se humillare mi pueblo, sobre el cual mi nombre es invocado, y oraren, y buscaren mi rostro, y se convirtieren de sus malos caminos; entonces yo oiré desde los cielos, y perdonaré sus pecados, y sanaré su tierra.","versiculo":"2 Crónicas 7:14","fecha":"2/9/2023"
+  },
+{"texto": "En ti esperaron nuestros padres; Esperaron, y tú los libraste.","versiculo":"Salmos 22:4","fecha":"3/9/2023"
+  },
+{"texto": "Jehová es mi pastor; nada me faltará.","versiculo":"Salmos 23:1","fecha":"4/9/2023"
+  },
+{"texto": "Aunque ande en valle de sombra de muerte, No temeré mal alguno, porque tú estarás conmigo; Tu vara y tu cayado me infundirán aliento.","versiculo":"Salmos 23:4","fecha":"5/9/2023"
+  },
+{"texto": "Mirad que ninguno pague a otro mal por mal; antes seguid siempre lo bueno unos para con otros, y para con todos.","versiculo":"1 Tesalonicenses 5:15","fecha":"6/9/2023"
+  },
+{"texto": "Jehová se manifestó a mí hace ya mucho tiempo, diciendo: Con amor eterno te he amado; por tanto, te prolongué mi misericordia.","versiculo":"Jeremías 31.3","fecha":"7/9/2023"
+  },
+{"texto": "Antes bien, como está escrito: Cosas que ojo no vio, ni oído oyó, Ni han subido en corazón de hombre, Son las que Dios ha preparado para los que le aman.","versiculo":"1 Corintios 2:9","fecha":"8/9/2023"
+},
+{"texto": "Venid a mí todos los que estáis trabajados y cargados, y yo os haré descansar.","versiculo":"Mateo 11:28","fecha":"9/9/2023"
+  },
+{"texto": " Someteos, pues, a Dios; resistid al diablo, y huirá de vosotros.","versiculo":"Santiago 4:7","fecha":"10/9/2023"
+  },
+{"texto": " Poned la mira en las cosas de arriba, no en las de la tierra.","versiculo":"Colosenses 3:2","fecha":"11/9/2023"
+  },
+{"texto": "Lámpara es a mis pies tu palabra, Y lumbrera a mi camino.","versiculo":"Salmos 119:105","fecha":"12/9/2023"
+  },
+{"texto": "Enséñanos de tal modo a contar nuestros días, Que traigamos al corazón sabiduría.","versiculo":"Salmos 90:12","fecha":"13/9/2023"
+  },
+{"texto": " En aquel tiempo, respondiendo Jesús, dijo: Te alabo, Padre, Señor del cielo y de la tierra, porque escondiste estas cosas de los sabios y de los entendidos, y las revelaste a los niños. ","versiculo":"Mateo 11:25","fecha":"14/9/2023"
+  },
+{"texto": "Bendeciré a Jehová en todo tiempo; Su alabanza estará de continuo en mi boca.","versiculo":"Salmos 34:1","fecha":"15/9/2023"
+  },
+{"texto": " Por lo demás, hermanos míos, fortaleceos en el Señor, y en el poder de su fuerza.","versiculo":"Efesios 6:10","fecha":"16/9/2023"
+  },
+{"texto": " Vestíos de toda la armadura de Dios, para que podáis estar firmes contra las asechanzas del diablo.","versiculo":"Efesios 6:11","fecha":"17/9/2023"
+  },
+{"texto": "orando en todo tiempo con toda oración y súplica en el Espíritu, y velando en ello con toda perseverancia y súplica por todos los santos;","versiculo":"Efesios 6:18","fecha":"18/9/2023"
+  },
+{"texto": "Cuando pases por las aguas, yo estaré contigo; y si por los ríos, no te anegarán. Cuando pases por el fuego, no te quemarás, ni la llama arderá en ti.","versiculo":"Isaias 43:2","fecha":"19/9/2023"
+  },
+{"texto": "Torre fuerte es el nombre de Jehová; A él correrá el justo, y será levantado.","versiculo":"Proverbios 18:10","fecha":"20/9/2023"
+  },
+{"texto": "Jesús le dijo: Amarás al Señor tu Dios con todo tu corazón, y con toda tu alma, y con toda tu mente. ","versiculo":"Mateo 22:37","fecha":"21/9/2023"
+  },
+{"texto": "Y como queréis que hagan los hombres con vosotros, así también haced vosotros con ellos.","versiculo":"Lucas 6:31","fecha":"22/9/2023"
+  },
+{"texto": "Él da esfuerzo al cansado, y multiplica las fuerzas al que no tiene ningunas.","versiculo":"Isaias 40:29","fecha":"23/9/2023"
+  },
+{"texto": "pero los que esperan a Jehová tendrán nuevas fuerzas; levantarán alas como las águilas; correrán, y no se cansarán; caminarán, y no se fatigarán.","versiculo":"Isaias 40:31","fecha":"24/9/2023"
+  },
+{"texto": "Otra vez os digo, que si dos de vosotros se pusieren de acuerdo en la tierra acerca de cualquiera cosa que pidieren, les será hecho por mi Padre que está en los cielos.","versiculo":"Mateo 18:20","fecha":"25/9/2023"
+  },
+{"texto": "Yo soy la vid, vosotros los pámpanos; el que permanece en mí, y yo en él, este lleva mucho fruto; porque separados de mí nada podéis hacer.","versiculo":"Juan 15:5","fecha":"26/9/2023"
+  },
+{"texto": "Si permanecéis en mí, y mis palabras permanecen en vosotros, pedid todo lo que queréis, y os será hecho.","versiculo":"Juan 15:7","fecha":"27/9/2023"
+  },
+{"texto": "Porque donde están dos o tres congregados en mi nombre, allí estoy yo en medio de ellos.","versiculo":"Mateo 18:20","fecha":"28/9/2023"
+  },
+{"texto": " Pero Jesús dijo: Dejad a los niños venir a mí, y no se lo impidáis; porque de los tales es el reino de los cielos.","versiculo":"Mateo 19:14","fecha":"29/9/2023"
+  },
+{"texto": "Y este es mi mandamiento: que se amen los unos a los otros, como yo los he amado.","versiculo":"Juan 15:12","fecha":"30/9/2023"
+  },
+{"texto": "No me escogieron ustedes a mí, sino que yo los escogí a ustedes y los comisioné para que vayan y den fruto, un fruto que perdure. Así el Padre les dará todo lo que le pidan en mi nombre.","versiculo":"Juan 15:16","fecha":"1/10/2023"
+  },
+{"texto": "Confía en el Señor de todo corazón, y no en tu propia inteligencia.","versiculo":"Proverbios 3:5","fecha":"2/10/2023"
+  },
+{"texto": " Porque yo sé muy bien los planes que tengo para ustedes —afirma el Señor—, planes de bienestar y no de calamidad, a fin de darles un futuro y una esperanza.","versiculo":"Jeremías 29:11","fecha":"3/10/2023"
+  },
+{"texto": "Hijo mío, no te olvides de mis enseñanzas; más bien, guarda en tu corazón mis mandamientos.","versiculo":"Proverbios 3:11","fecha":"4/10/2023"
+  },
+{"texto": " Bendito el varón que confía en Jehová, y cuya confianza es Jehová.","versiculo":"Jeremías 17:7","fecha":"5/10/2023"
+  },
+{"texto": " Porque será como el árbol plantado junto a las aguas, que junto a la corriente echará sus raíces, y no verá cuando viene el calor, sino que su hoja estará verde; y en el año de sequía no se fatigará, ni dejará de dar fruto.","versiculo":"Jeremías 17:8","fecha":"6/10/2023"
+  },
+{"texto": "El ángel de Jehová acampa alrededor de los que le temen, Y los defiende.","versiculo":"Salmos 34:7","fecha":"7/10/2023"
+  },
+{"texto": "Los cielos cuentan la gloria de Dios, Y el firmamento anuncia la obra de sus manos.","versiculo":"Salmos 19:1","fecha":"8/10/2023"
+  },
+{"texto": "Porque por gracia ustedes han sido salvados mediante la fe; esto no procede de ustedes, sino que es el regalo de Dios,","versiculo":"Efesios 2:8","fecha":"9/10/2023"
+  },
+{"texto": " ¡Gloria a Dios en las alturas, y en la tierra paz, buena voluntad para con los hombres!","versiculo":"Lucas 2:14","fecha":"10/10/2023"
+  },
+{"texto": "Y él dijo: Antes bienaventurados los que oyen la palabra de Dios, y la guardan.","versiculo":"Lucas 11:28","fecha":"11/10/2023"
+  },
+{"texto": "Sobre toda cosa guardada, guarda tu corazón; Porque de él mana la vida.","versiculo":"Proverbios 4:23","fecha":"12/10/2023"
+  },
+{"texto": " Alégrense en la esperanza, muestren paciencia en el sufrimiento, perseveren en la oración.","versiculo":"Romanos 12:12","fecha":"13/10/2023"
+  },
+{"texto": " Alégrense en la esperanza, muestren paciencia en el sufrimiento, perseveren en la oración.","versiculo":"Romanos 12:12","fecha":"13/10/2023"
+  },
+{"texto": "Y él dijo: Antes bienaventurados los que oyen la palabra de Dios, y la guardan.","versiculo":"Lucas 11:28","fecha":"14/10/2023"
+  },
+{"texto": "No temas, tierra, sino alégrate y regocíjate, porque el Señor hará grandes cosas.","versiculo":"Joel 2:21","fecha":"15/10/2023"
+  },
+{"texto": "“El Señor te bendiga y te guarde;","versiculo":"Números 6:24","fecha":"16/10/2023"
+  },
+{"texto": "el Señor te mire con agrado y te extienda su amor;","versiculo":"Números 6:25","fecha":"17/10/2023"
+  },
+{"texto": "el Señor te muestre su favor y te conceda la paz”.","versiculo":"Números 6:26","fecha":"18/10/2023"
+},
+{"texto": "El que habita al abrigo del Altísimo se acoge a la sombra del Todopoderoso.","versiculo":"Salmo 91:1","fecha":"20/10/2023"
+  },
+{"texto": "Diré yo de Jehová: Refugio mío y fortaleza mía; mi Dios, en quien aconfiaré.","versiculo":"Salmo 91:2","fecha":"21/10/2023"
+  },
+{"texto": "Diré yo de Jehová: Refugio mío y fortaleza mía; mi Dios, en quien aconfiaré.","versiculo":"Salmo 91:2","fecha":"21/10/2023"
+  },
+{"texto": "Porque él ordenará que sus ángeles te cuiden en todos tus caminos.","versiculo":"Salmo 91:11","fecha":"22/10/2023"
+  },
+{"texto": "»Ensancha el espacio de tu carpa, y despliega las cortinas de tu morada. ¡No te limites! Alarga tus cuerdas y refuerza tus estacas.","versiculo":"Isaías 54:2","fecha":"23/10/2023"
+  },
+{"texto": "Aunque cambien de lugar las montañas y se tambaleen las colinas, no cambiará mi fiel amor por ti ni vacilará mi pacto de paz, —dice el Señor, que de ti se compadece—.","versiculo":"Isaías 54:10","fecha":"24/10/2023"
+  },
+{"texto": "Y Dios puede hacer que toda gracia abunde para ustedes, de manera que siempre, en toda circunstancia, tengan todo lo necesario, y toda buena obra abunde en ustedes.","versiculo":"2 Corintios 9:8","fecha":"25/10/2023"
+  },
+{"texto": "Porque tanto amó Dios al mundo que dio a su Hijo unigénito, para que todo el que cree en él no se pierda, sino que tenga vida eterna.","versiculo":"Juan 3:16","fecha":"26/10/2023"
+  },
+{"texto": "¿Por qué voy a inquietarme? ¿Por qué me voy a angustiar? En Dios pondré mi esperanza y todavía lo alabaré. ¡Él es mi Salvador y mi Dios!","versiculo":"Salmos 42:5","fecha":"27/10/2023"
+  },
+{"texto": "He aquí, yo estoy contigo, y te guardaré por donde quiera que fueres, y volveré a traerte a esta tierra; porque no te dejaré hasta que haya hecho lo que te he dicho.","versiculo":"Génesis 28:15","fecha":"28/10/2023"
+  },
+{"texto": "porque por fe andamos, no por vista","versiculo":"2 Corintios 5:7","fecha":"29/10/2023"
+  },
+{"texto": "Jehová es mi pastor; nada me faltará","versiculo":"Salmo 23:1","fecha":"30/10/2023"
+  },
+{"texto": "Confortará mi alma; Me guiará por sendas de justicia por amor de su nombre.","versiculo":"Salmo 23:3","fecha":"31/10/2023"
+  },
+{"texto": "Aunque ande en valle de sombra de muerte, No temeré mal alguno, porque tú estarás conmigo; Tu vara y tu cayado me infundirán aliento.","versiculo":"Salmo 23:4","fecha":"1/11/2023"
+  },
+{"texto": "Aunque ande en valle de sombra de muerte, No temeré mal alguno, porque tú estarás conmigo; Tu vara y tu cayado me infundirán aliento.","versiculo":"Salmo 23:4","fecha":"2/11/2023"
+  },
+{"texto": " Mira que te mando que te esfuerces y seas valiente; no temas ni desmayes, porque Jehová tu Dios estará contigo en dondequiera que vayas.","versiculo":"Josué 1:9","fecha":"3/11/2023"
+  },
+{"texto": "porque nada hay imposible para Dios.","versiculo":"Lucas 1:37","fecha":"4/11/2023"
+  },
+{"texto": "Los que sembraron con lágrimas, con regocijo segarán.","versiculo":"Salmo 126:5","fecha":"5/11/2023"
+  },
+{"texto": "Entren por sus puertas con acción de gracias; vengan a sus atrios con himnos de alabanza; denle gracias, alaben su nombre.","versiculo":"Salmo 100:4","fecha":"6/11/2023"
+  },
+{"texto": "Bendice, alma mía, a Jehová, Y bendiga todo mi ser su santo nombre.","versiculo":"Salmo 103:1","fecha":"7/11/2023"
+  },
+{"texto": "Bendice, alma mía, a Jehová, Y no olvides ninguno de sus beneficios.","versiculo":"Salmo 103:2","fecha":"8/11/2023"
+  },
+{"texto": "Él es quien perdona todas tus iniquidades, El que sana todas tus dolencias;","versiculo":"Salmo 103:3","fecha":"9/11/2023"
+  },
+{"texto": "Mas la misericordia de Jehová es desde la eternidad y hasta la eternidad sobre los que le temen, Y su justicia sobre los hijos de los hijos;","versiculo":"Salmo 103:17","fecha":"10/11/2023"
+  },
+{"texto": "Mas buscad primeramente el reino de Dios y su justicia, y todas estas cosas os serán añadidas.","versiculo":"Mateo 6:33","fecha":"11/11/2023"
+  },
+{"texto": "porque nada hay imposible para Dios.","versiculo":"Lucas 1:37","fecha":"5/12/2023"
+  },
+{"texto": "Mira que te mando que te esfuerces y seas valiente; no temas ni desmayes, porque Jehová tu Dios estará contigo en dondequiera que vayas.","versiculo":"Josué 1:9","fecha":"6/12/2023"
+  },
+{"texto": "Aguarda a Jehová; Esfuérzate, y aliéntese tu corazón; Sí, espera a Jehová.","versiculo":"Salmo 27:14","fecha":"7/12/2023"
+  },
+{"texto": "Tú guardarás en completa paz a aquel cuyo pensamiento en ti persevera; porque en ti ha confiado.","versiculo":"Isaias 26:3","fecha":"8/12/2023"
+  },
+{"texto": "En paz me acostaré, y asimismo dormiré; Porque solo tú, Jehová, me haces vivir confiado.","versiculo":"Salmos 4:8","fecha":"9/12/2023"
+  },
+{"texto": "No se olviden de hacer el bien y de compartir con otros lo que tienen, porque esos son los sacrificios que agradan a Dios.","versiculo":"Hebreos 13:16","fecha":"13/1/2023"
+  },
+{"texto": "Ahora bien, la fe es la garantía de lo que se espera, la certeza de lo que no se ve.","versiculo":"Hebreos 11:1","fecha":"14/1/2023"
+  },
+{"texto": "Ofrece a Dios tu gratitud, cumple tus promesas al Altísimo!","versiculo":"Salmos 50:14","fecha":"15/1/2023"
+  },
+{"texto": "Entren por sus puertas con acción de gracias; vengan a sus atrios con himnos de alabanza; denle gracias, alaben su nombre.","versiculo":"Salmos 100:4","fecha":"16/1/2023"
+  },
+{"texto": "Ahora bien, sabemos que Dios dispone todas las cosas para el bien de quienes lo aman, los que han sido llamados de acuerdo con su propósito.","versiculo":"Romanos 8:28","fecha":"17/1/2023"
+  },
+{"texto": "Tú amas la justicia y odias la maldad; por eso Dios te escogió a ti y no a tus compañeros, ¡tu Dios te ungió con perfume de alegría!","versiculo":"Salmos 45:7","fecha":"18/1/2023"
+  },
+{"texto": "No sean perezosos; más bien, imiten a quienes por su fe y paciencia heredan las promesas.","versiculo":"Hebreos 6:12","fecha":"19/1/2023"
+  },
+{"texto": "Además, David le dijo a su hijo Salomón: «¡Sé fuerte y valiente, y pon manos a la obra! No tengas miedo ni te desanimes, porque Dios el Señor, mi Dios, estará contigo. No te dejará ni te abandonará hasta que hayas terminado toda la obra del templo del Señor.", "versiculo":"1 Crónicas 28:20","fecha":"20/1/2023"
+  },
+{"texto": "Además, David le dijo a su hijo Salomón: «¡Sé fuerte y valiente, y pon manos a la obra! No tengas miedo ni te desanimes, porque Dios el Señor, mi Dios, estará contigo. No te dejará ni te abandonará hasta que hayas terminado toda la obra del templo del Señor.", "versiculo":"1 Crónicas 28:20","fecha":"20/1/2023"
+  },
+{"texto": "El Señor dice: «Yo te instruiré, yo te mostraré el camino que debes seguir; yo te daré consejos y velaré por ti.", "versiculo":"Salmos 32:8","fecha":"21/1/2023"
+  },
+{"texto": "«Yo sé bien que tú lo puedes todo, que no es posible frustrar ninguno de tus planes.", "versiculo":"Job 42:2","fecha":"22/1/2023"
+  },
+{"texto": "Porque así como las aguas cubren los mares, así también se llenará la tierra del conocimiento de la gloria del Señor.", "versiculo":"Habacuc 2:14","fecha":"23/1/2023"
+  },
+{"texto": "El que sigue la justicia y la misericordia hallará vida, justicia y honra.", "versiculo":"Proverbios 21:21","fecha":"28/1/2023"
+ },
+{"texto": "Si es posible, en cuanto dependa de vosotros, vivid en paz con todos los hombres.", "versiculo":"Romanos 12:18","fecha":"29/1/2023"
+},
+{"texto": "Jehová es mi roca, y mi fortaleza, y mi libertador; Dios mío, fuerza mía, en quien confiaré; mi escudo, y el fuerte de mi salvación, mi alto refugio.", "versiculo":"Salmos 18:2 (RVR1960)","fecha":"30/1/2023"
+},
+{ "texto": "Porque yo, Jehová, soy tu Dios, quien te sostiene de tu mano derecha, y te dice: No temas, yo te ayudaré.", "versiculo": "Isaías 41:13", "fecha": "31/1/2023" 
+},
+{ "texto": "El corazón del hombre planea su camino, pero Jehová endereza sus pasos.", "versiculo":"Proverbios 16:9", "fecha": "1/2/2023" 
+},
+{"texto": "Porque así como las aguas cubren los mares, así también se llenará la tierra del conocimiento de la gloria del Señor.", "versiculo":"1 Corintios 16:4", "fecha":"2/2/2023"
+},
+{"texto": "Amarás al Señor tu Dios con todo tu corazón, con toda tu alma y con toda tu mente.","versiculo":"Mateo 22:37","fecha":"3/2/2023"
+},
+{"texto": "Bienaventurado el varón que soporta la tentación, porque cuando haya resistido la prueba, recibirá la corona de vida, la cual Dios ha prometido a los que le aman.", "versiculo":"Santiago 1:12","fecha":"4/2/2023"
+},
+{"texto": "porque nada hay imposible para Dios.", "versiculo":"Lucas 1:37","fecha":"31/3/2023"
+},
+{
+"texto": "No seas sabio en tu propia opinión; Teme a Jehová, y apártate del mal; Porque será medicina a tu cuerpo, Y refrigerio para tus huesos.", "versiculo":"Proverbios 3:7","fecha":"1/4/2023"
+},
+{
+"texto": "porque todo aquel que invocare el nombre del Señor, será salvo.", "versiculo":"Romanos 10:13","fecha":"2/4/2023"
+},
+{
+"texto": "Bendeciré a Jehová que me aconseja; Aun en las noches me enseña mi conciencia.", "versiculo":"Salmos 16:7","fecha":"3/4/2023"
+},
+{
+"texto": "Jehová es mi luz y mi salvación; ¿de quién temeré? Jehová es la fortaleza de mi vida; ¿de quién he de atemorizarme?", "versiculo":"Salmos 27:1","fecha":"24/4/2023"
+},
+{
+"texto": "Porque yo sé muy bien los planes que tengo para ustedes —afirma el Señor—, planes de bienestar y no de calamidad, a fin de darles un futuro y una esperanza.", "versiculo":"Jeremías 29:11","fecha":"25/4/2023"
+},
+{
+"texto": "porque nada hay imposible para Dios.", "versiculo":"Lucas 1.37","fecha":"26/4/2023"
+},
+{
+"texto": " Más bien, sean bondadosos y compasivos unos con otros, y perdónense mutuamente, así como Dios los perdonó a ustedes en Cristo.", "versiculo":"Efesios 4:32","fecha":"2/6/2023"
+},
+{
+"texto": "En mi corazón atesoro tus dichos para no pecar contra ti.", "versiculo":"Salmos 119:11","fecha":"3/6/2023"
+},
+{
+"texto": " Porque ustedes antes eran oscuridad, pero ahora son luz en el Señor. Vivan como hijos de luz.", "versiculo":"Efesios 5:8","fecha":"4/6/2023"
+},
+{
+"texto": " En realidad, sin fe es imposible agradar a Dios, ya que cualquiera que se acerca a Dios tiene que creer que él existe y que recompensa a quienes lo buscan.", "versiculo":"Hebreos 11:6","fecha":"5/6/2023"
+},
+{
+"texto": "Pues tú has librado mi alma de la muerte, Mis ojos de lágrimas, Y mis pies de resbalar.", "versiculo":"Salmos 116:8","fecha":"3/7/2023"
+}
+ ]}
+
+
+
+
