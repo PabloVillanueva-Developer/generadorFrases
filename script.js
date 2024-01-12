@@ -4,7 +4,7 @@ var contfuente = 1;
 
 //cargar versiculos.txt
 var xmlhttp = new XMLHttpRequest();
-var url = "https://raw.githubusercontent.com/PabloVillanueva-Developer/simuladorAPIsRepoJSONs/main/versiculos.txt";
+var url = "https://raw.githubusercontent.com/PabloVillanueva-Developer/simuladorAPIsRepoJSONs/main/preguntasEntrevista.txt";
 //ocultamos el logo
 /*  document.getElementById("logo").style.display = "none";  */
 
@@ -21,17 +21,17 @@ function cargarversiculos(arr){
   
       // FUNCION GENERADORA DE [X] RANDOM PARA BUSQUEDA EN ARRAY DE VERSICULOS
       const generarXRandom = () => {
-          x = Math.floor(Math.random() * arr.versiculos.length); // se genera valor random para X
+          x = Math.floor(Math.random() * arr.preguntasEntrevista.length); // se genera valor random para X
           versiculoDelDia =  JSON.stringify({indice: x, fecha: fechaHoy}) // crea objeto y lo hace JSON
           localStorage.setItem('versiculosDelDia', versiculoDelDia) // sube JSON a localStorage
       }
 
       /* FUNCION PARA DESPLIEGUE DE VERSICULOS + ASIGNACION DE REFERENCIAS PARA COMPARTIR POR WAPP */
       const displayVersiculo = () => {
-          document.getElementById("texto").innerHTML = arr.versiculos[x].texto;
-          document.getElementById("versiculo").innerHTML = arr.versiculos[x].versiculo;
-          textoVersiculoLinkWapp = arr.versiculos[x].texto; /* SE UTILIZA EN BOTON DE WAPP PARA AGREGAR COMO DESCRIPCION AL LINK */
-          versiculoLinkWapp = arr.versiculos[x].versiculo;  /* SE UTILIZA EN BOTON DE WAPP PARA AGREGAR COMO DESCRIPCION AL LINK */
+          document.getElementById("texto").innerHTML = arr.preguntasEntrevista[x].texto;
+          document.getElementById("versiculo").innerHTML = ''
+          //textoVersiculoLinkWapp = arr.versiculos[x].texto; /* SE UTILIZA EN BOTON DE WAPP PARA AGREGAR COMO DESCRIPCION AL LINK */
+          //versiculoLinkWapp = arr.versiculos[x].versiculo;  /* SE UTILIZA EN BOTON DE WAPP PARA AGREGAR COMO DESCRIPCION AL LINK */
           }
   
   // si en el localStorage no hay nada || si en el localStorage la fecha no coincide )
