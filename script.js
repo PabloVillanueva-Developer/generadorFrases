@@ -28,7 +28,7 @@ function cargarversiculos(arr){
       /* FUNCION PARA DESPLIEGUE DE VERSICULOS + ASIGNACION DE REFERENCIAS PARA COMPARTIR POR WAPP */
       const displayVersiculo = () => {
           document.getElementById("texto").innerHTML = arr.preguntasEntrevista[x].texto;
-          //document.getElementById("versiculo").innerHTML = ''
+          document.getElementById("versiculo").innerHTML = ''
           //textoVersiculoLinkWapp = arr.versiculos[x].texto; /* SE UTILIZA EN BOTON DE WAPP PARA AGREGAR COMO DESCRIPCION AL LINK */
           //versiculoLinkWapp = arr.versiculos[x].versiculo;  /* SE UTILIZA EN BOTON DE WAPP PARA AGREGAR COMO DESCRIPCION AL LINK */
           }
