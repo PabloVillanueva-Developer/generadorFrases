@@ -8,7 +8,6 @@ var url = "https://raw.githubusercontent.com/PabloVillanueva-Developer/simulador
 //ocultamos el logo
 /*  document.getElementById("logo").style.display = "none";  */
 
-
 /* CARGA VERSICULOS | LOS VERSICULOS DURAN UN DIA, AL CAMBIAR EL DIA SE HABILITA EL RANDOM X PARA ASIGNAR OTRO VERSICULO Y GUARDARLO EN LOCALSTORAGE */
 let textoVersiculoLinkWapp = ''
 let versiculoLinkWapp = ''
