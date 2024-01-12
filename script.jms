@@ -1,9 +1,10 @@
 var contfuente = 1;
 // declaración de variables degrade
 
+
 //cargar versiculos.txt
 var xmlhttp = new XMLHttpRequest();
-var url = "https://Picbiblica.javier-ricardor.repl.co/versiculos.txt";
+var url = "https://raw.githubusercontent.com/PabloVillanueva-Developer/simuladorAPIsRepoJSONs/main/versiculos.txt";
 //ocultamos el logo
 /*  document.getElementById("logo").style.display = "none";  */
 
